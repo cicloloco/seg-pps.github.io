@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/seg-pps.github.io/sw.js",{scope:"/seg-pps.github.io/"})

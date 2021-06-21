@@ -1,14 +1,14 @@
 {
   "name": "PPS GitHub",
   "short_name": "PPS GitHub",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/seg-pps.github.io/",
+  "scope": "/seg-pps.github.io/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/seg-pps.github.io/favicon.svg",
       "sizes": "512x512"
     }
   ]
